@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-%3E%3D7-blue)
 ![Swing](https://img.shields.io/badge/Swing-GUI-red)
 
-A simple Java application that allows users to apply various color effects to images using a graphical user interface (GUI). The application uses the Swing library for building the GUI and supports grayscale, sepia, and inverted color effects.
+A simple Java application that allows users to apply various color effects to images using a graphical user interface (GUI). The application uses the Swing library for building the GUI and supports grayscale, sepia, and inverted color effects
 
 ## Features
 
