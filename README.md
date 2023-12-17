@@ -1,6 +1,6 @@
 # Image Filter Application with GUI
 
-![Java](https://img.shields.io/badge/Java-%3E%3D8-blue)
+![Java](https://img.shields.io/badge/Java-%3E%3D8-orange)
 ![Swing](https://img.shields.io/badge/Swing-GUI-orange)
 
 A simple Java application that allows users to apply various color effects to images using a graphical user interface (GUI). The application uses the Swing library for building the GUI and supports grayscale, sepia, and inverted color effects.
